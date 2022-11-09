@@ -1,0 +1,15 @@
+.bg-img1{
+    background-color: #000;
+    background-image: url(/1.jpg);
+    background-size: auto;
+}
+.bg-img2{
+    background-color: #000;
+    background-size: auto;
+    background-image: url(/2.jpg);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: auto;
+    background-image: url(/3.jpg);    
+}
